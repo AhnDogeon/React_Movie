@@ -26,7 +26,23 @@ git --version
 
 
 
+### Using Create-react-app
+
+```bash
+npx create-react-app movie-app
+
+code movie-app
+```
+
+
+
+
+
+
+
 ### 왜 React를 사용할까?
 
 [Why React](https://www.youtube.com/watch?v=RmHd3PEmnPE&feature=youtu.be)
+
+
 
