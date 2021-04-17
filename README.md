@@ -46,3 +46,4 @@ code movie-app
 
 
 
+React? Redux?
