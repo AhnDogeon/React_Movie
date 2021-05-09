@@ -1,8 +1,8 @@
 import React from 'react';
 import Potato from './potato';
 
-function Coding() {
-    return <h1>I LIke Coding</h1>;
+function Food({favourite}) {
+    return <h1>I LIke {favourite}</h1>;
 }
 
 
@@ -11,7 +11,10 @@ function App() {
     <div className="App">
       <h1>Hello!</h1>
       <Potato />
-      <Coding />
+        <Food favourite="kimchi"/>
+        <Food favourite="pasta"/>
+        <Food favourite="pizza"/>
+        <Food favourite="chicken"/>
     </div>
   );
 }
