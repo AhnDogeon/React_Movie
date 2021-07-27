@@ -47,3 +47,7 @@ code movie-app
 
 
 React? Redux?
+
+
+
+프로젝트 재시작
